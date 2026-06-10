@@ -89,3 +89,9 @@ Nombre: Argentina | Población: 45376763 Personas | Superficie: 2780400 km2 | Co
 Nombre: Nigeria | Población: 223804632 Personas | Superficie: 923768 km2 | Continente: África
 Nombre: Japón | Población: 125800000 Personas | Superficie: 377975 km2 | Continente: Asia
 Nombre: Alemania | Población: 83149300 Personas | Superficie: 357022 km2 | Continente: Europa
+------------------------------------------------------------------------------------------------------------
+Integrantes: 
+
+Fernando Torres: Creación del repositorio principal del proyecto, redacción del README. Creación estructura principal del programa,validaciones, funciones: opción(), agregar_pais(),  mostrar_estadisticas(), salir(). 
+
+Francisco Ortiz: Funciones: actualizar_datos(), buscar_pais(), filtar_paises(), ordenar(), redacción del PDF. 
