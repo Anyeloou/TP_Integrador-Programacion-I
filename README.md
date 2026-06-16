@@ -90,6 +90,8 @@ Nombre: Nigeria | Población: 223804632 Personas | Superficie: 923768 km2 | Cont
 Nombre: Japón | Población: 125800000 Personas | Superficie: 377975 km2 | Continente: Asia
 Nombre: Alemania | Población: 83149300 Personas | Superficie: 357022 km2 | Continente: Europa
 ------------------------------------------------------------------------------------------------------------
+Enlace al video explicativo: https://www.youtube.com/watch?v=yo5gB9nnwUA
+Documento PDF subido en el repositorio. 
 Integrantes: 
 
 Fernando Torres: Creación del repositorio principal del proyecto, redacción del README. Creación estructura principal del programa,validaciones, funciones: opción(), agregar_pais(),  mostrar_estadisticas(), salir(). 
